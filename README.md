@@ -23,6 +23,17 @@ Top 3 high-value fraud transactions identified using SQL:
 
 ---
 
+## 📂 Dataset   
+
+The dataset contains credit card transactions with the following features:
+- Time
+- Amount
+- Class (0 = Normal, 1 = Fraud)
+
+A smaller version (`fraud_small.csv`) is used for SQL analysis.
+
+---
+
 ## 🛠 Tools & Technologies
 - MySQL
 - SQL (Aggregation, CASE, Window Functions)
