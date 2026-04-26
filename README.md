@@ -52,22 +52,6 @@ Used Python (Pandas) to:
 
 ---
 
-## 📁 Project Structure
-Fraud_Detection_Project/
-│
-├── data/
-├── sql/
-│ └── queries.sql
-├── notebooks/
-│ └── analysis.ipynb
-├── sql_output.png
-└── README.md
-
----
-
-
----
-
 ## 🚀 Outcome
 Developed a fraud detection analysis system using SQL to identify suspicious transaction patterns and generate meaningful insights for decision-making.
 
