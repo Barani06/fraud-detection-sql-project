@@ -9,6 +9,8 @@ This project analyzes credit card transaction data to identify fraudulent patter
 
 Top 3 high-value fraud transactions identified using SQL:
 
+
+
 ![SQL Output](sql_output.png)
 
 ---
