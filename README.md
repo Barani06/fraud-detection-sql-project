@@ -73,6 +73,7 @@ The project automatically creates the following charts:
 ### 📈 Fraud Distribution (Bar Chart)
 
 Shows the number of normal and fraudulent transactions.
+
 <img width="600" height="400" alt="fraud_bar_chart" src="https://github.com/user-attachments/assets/199e7205-991d-473c-9562-15f16ddb6bbf" />
 
 
@@ -81,6 +82,7 @@ Shows the number of normal and fraudulent transactions.
 ### 🥧 Fraud Distribution (Pie Chart)
 
 Displays the percentage of fraud transactions.
+
 <img width="600" height="600" alt="fraud_pie_chart" src="https://github.com/user-attachments/assets/34dc3f78-e8fa-4cb7-89ef-63c9162171cd" />
 
 ---
@@ -88,6 +90,7 @@ Displays the percentage of fraud transactions.
 ### 📊 Transaction Amount Histogram
 
 Shows the distribution of transaction amounts.
+
 <img width="800" height="500" alt="amount_histogram" src="https://github.com/user-attachments/assets/7c274ae7-9e9a-4f04-851b-ad9778d9b45d" />
 
 ---
@@ -95,6 +98,7 @@ Shows the distribution of transaction amounts.
 ### 📦 Transaction Amount Box Plot
 
 Compares transaction amounts between fraud and normal transactions.
+
 <img width="600" height="400" alt="amount_boxplot" src="https://github.com/user-attachments/assets/bd2e8140-8b3f-427b-b256-7e40efb86581" />
 
 ---
